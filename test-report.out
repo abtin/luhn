@@ -1,0 +1,7 @@
+{"Time":"2019-10-29T21:37:59.299199872-04:00","Action":"run","Package":"github.com/abtin/luhn","Test":"TestValid"}
+{"Time":"2019-10-29T21:37:59.299432299-04:00","Action":"output","Package":"github.com/abtin/luhn","Test":"TestValid","Output":"=== RUN   TestValid\n"}
+{"Time":"2019-10-29T21:37:59.299470891-04:00","Action":"output","Package":"github.com/abtin/luhn","Test":"TestValid","Output":"--- PASS: TestValid (0.00s)\n"}
+{"Time":"2019-10-29T21:37:59.299481974-04:00","Action":"pass","Package":"github.com/abtin/luhn","Test":"TestValid","Elapsed":0}
+{"Time":"2019-10-29T21:37:59.299491087-04:00","Action":"output","Package":"github.com/abtin/luhn","Output":"PASS\n"}
+{"Time":"2019-10-29T21:37:59.299532707-04:00","Action":"output","Package":"github.com/abtin/luhn","Output":"ok  \tgithub.com/abtin/luhn\t0.002s\n"}
+{"Time":"2019-10-29T21:37:59.299543972-04:00","Action":"pass","Package":"github.com/abtin/luhn","Elapsed":0.002}

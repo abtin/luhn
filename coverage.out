@@ -1,0 +1,13 @@
+mode: set
+github.com/abtin/luhn/luhn.go:5.31,7.39 2 1
+github.com/abtin/luhn/luhn.go:25.2,25.18 1 1
+github.com/abtin/luhn/luhn.go:28.2,28.20 1 1
+github.com/abtin/luhn/luhn.go:7.39,9.17 2 1
+github.com/abtin/luhn/luhn.go:12.3,12.29 1 1
+github.com/abtin/luhn/luhn.go:15.3,16.21 2 1
+github.com/abtin/luhn/luhn.go:22.3,23.12 2 1
+github.com/abtin/luhn/luhn.go:9.17,10.12 1 1
+github.com/abtin/luhn/luhn.go:12.29,14.4 1 1
+github.com/abtin/luhn/luhn.go:16.21,18.17 2 1
+github.com/abtin/luhn/luhn.go:18.17,20.5 1 1
+github.com/abtin/luhn/luhn.go:25.18,27.3 1 1
