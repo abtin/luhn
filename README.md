@@ -1,4 +1,4 @@
-# Luhn algorith implementaion in GO
+# Luhn algorithm implementaion in GO
 
 This is a golang module that can be used in all variety of go applications e.g. command-line, webservice, grpc, etc.
 
